@@ -1,0 +1,6 @@
+c:\users\bayu prabowo\documents\visual studio 2015\Projects\Summy\Summy\SummyContent\obj\x86\Debug\SummyContent.contentprojResolveAssemblyReference.cache
+F:\OnlineDrive\OneDrive\Documents\My Project\Visual Studio\Summy V2\Summy\SummyContent\obj\x86\Debug\SummyContent.contentprojResolveAssemblyReference.cache
+F:\OnlineDrive\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\SummyContent\obj\x86\Debug\SummyContent.contentprojResolveAssemblyReference.cache
+C:\Users\Riski\Music\Documents\Visual Studio 2015\Projects\Summy V2\Summy\SummyContent\obj\x86\Debug\SummyContent.contentprojResolveAssemblyReference.cache
+C:\Users\AlyaPrima\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\SummyContent\obj\x86\Debug\SummyContent.contentprojResolveAssemblyReference.cache
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\SummyContent\obj\x86\Debug\SummyContent.contentprojResolveAssemblyReference.cache

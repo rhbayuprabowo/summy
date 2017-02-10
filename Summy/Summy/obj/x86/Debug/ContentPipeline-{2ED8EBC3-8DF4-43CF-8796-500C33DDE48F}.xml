@@ -1,0 +1,335 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>gfx\number.png</Source>
+      <Name>gfx\number</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\number.xnb</Output>
+      <Time>2015-09-07T16:14:58+07:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\one_finger.png</Source>
+      <Name>gfx\one_finger</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\one_finger.xnb</Output>
+      <Time>2015-09-04T16:26:50+07:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\tiled.png</Source>
+      <Name>gfx\tiled</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\tiled.xnb</Output>
+      <Time>2016-03-18T16:44:12.9622+07:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\backgroundTileBoard.png</Source>
+      <Name>gfx\backgroundTileBoard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\backgroundTileBoard.xnb</Output>
+      <Time>2016-03-18T14:03:58.6972+07:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\backTile.png</Source>
+      <Name>gfx\backTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\backTile.xnb</Output>
+      <Time>2016-03-18T15:27:02.2442+07:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\linesquare.png</Source>
+      <Name>gfx\linesquare</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\linesquare.xnb</Output>
+      <Time>2016-04-16T11:15:19.98+07:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\clear.png</Source>
+      <Name>gfx\clear</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\clear.xnb</Output>
+      <Time>2016-03-22T11:30:00.5136+07:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\cpu.png</Source>
+      <Name>gfx\cpu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\cpu.xnb</Output>
+      <Time>2016-04-29T12:04:54.4742+07:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\done.png</Source>
+      <Name>gfx\done</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\done.xnb</Output>
+      <Time>2016-05-01T22:58:26.4102+07:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\player.png</Source>
+      <Name>gfx\player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\player.xnb</Output>
+      <Time>2016-04-29T12:05:27.6062+07:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\stack.png</Source>
+      <Name>gfx\stack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\stack.xnb</Output>
+      <Time>2016-03-20T10:46:34.3896+07:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\swap.png</Source>
+      <Name>gfx\swap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\swap.xnb</Output>
+      <Time>2016-03-22T11:28:08.9506+07:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\history.png</Source>
+      <Name>gfx\history</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\history.xnb</Output>
+      <Time>2016-03-20T20:22:33.8326+07:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\star.png</Source>
+      <Name>gfx\star</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\star.xnb</Output>
+      <Time>2016-03-20T20:19:37.7376+07:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\shadow.png</Source>
+      <Name>gfx\shadow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\shadow.xnb</Output>
+      <Time>2016-03-22T11:21:05.4306+07:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\drophere.png</Source>
+      <Name>gfx\drophere</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\drophere.xnb</Output>
+      <Time>2016-03-22T19:21:42.7566+07:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\transparent_dim.png</Source>
+      <Name>gfx\transparent_dim</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\transparent_dim.xnb</Output>
+      <Time>2016-04-02T18:38:18.573+07:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\MessageBox.png</Source>
+      <Name>gfx\MessageBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\MessageBox.xnb</Output>
+      <Time>2016-04-02T20:43:19.07+07:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\summy_logo.png</Source>
+      <Name>gfx\summy_logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\summy_logo.xnb</Output>
+      <Time>2016-04-04T02:13:23.02+07:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\shadow_menu_utama.png</Source>
+      <Name>gfx\shadow_menu_utama</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\shadow_menu_utama.xnb</Output>
+      <Time>2016-04-04T02:13:25.877+07:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\shadow_about.png</Source>
+      <Name>gfx\shadow_about</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\shadow_about.xnb</Output>
+      <Time>2016-04-05T04:44:36.147+07:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\help_1.png</Source>
+      <Name>gfx\help_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\help_1.xnb</Output>
+      <Time>2016-04-24T14:29:36.2846+07:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\help_2.png</Source>
+      <Name>gfx\help_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\help_2.xnb</Output>
+      <Time>2016-04-24T14:29:54.7336+07:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\help_3.png</Source>
+      <Name>gfx\help_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\help_3.xnb</Output>
+      <Time>2016-04-24T14:30:15.8906+07:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\help_shadow.png</Source>
+      <Name>gfx\help_shadow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\help_shadow.xnb</Output>
+      <Time>2016-04-09T00:52:40.5512+07:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\search.png</Source>
+      <Name>gfx\search</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\search.xnb</Output>
+      <Time>2016-04-12T20:15:04.0432+07:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\help_nav_shadow.png</Source>
+      <Name>gfx\help_nav_shadow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\help_nav_shadow.xnb</Output>
+      <Time>2016-04-25T18:52:07.6254+07:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\pause.png</Source>
+      <Name>gfx\pause</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\pause.xnb</Output>
+      <Time>2016-04-27T09:47:29.3552+07:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\downy.png</Source>
+      <Name>gfx\downy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\downy.xnb</Output>
+      <Time>2016-05-08T01:39:21.7124+07:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\uppy.png</Source>
+      <Name>gfx\uppy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\uppy.xnb</Output>
+      <Time>2016-05-08T01:39:21.7154+07:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\exit.png</Source>
+      <Name>gfx\exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\exit.xnb</Output>
+      <Time>2016-06-20T09:50:07.4586+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Debug.spritefont</Source>
+      <Name>Debug</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\Debug.xnb</Output>
+      <Time>2016-04-09T12:45:40.3822+07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{2ED8EBC3-8DF4-43CF-8796-500C33DDE48F}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\SummyContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-04-17T19:53:40.547+07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

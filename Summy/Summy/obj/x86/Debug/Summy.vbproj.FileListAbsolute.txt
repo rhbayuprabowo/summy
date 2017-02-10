@@ -1,0 +1,204 @@
+c:\users\bayu prabowo\documents\visual studio 2015\Projects\Summy\Summy\Summy\bin\x86\Debug\Summy.exe
+c:\users\bayu prabowo\documents\visual studio 2015\Projects\Summy\Summy\Summy\bin\x86\Debug\Summy.pdb
+c:\users\bayu prabowo\documents\visual studio 2015\Projects\Summy\Summy\Summy\bin\x86\Debug\Summy.xml
+c:\users\bayu prabowo\documents\visual studio 2015\Projects\Summy\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.dll
+c:\users\bayu prabowo\documents\visual studio 2015\Projects\Summy\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+c:\users\bayu prabowo\documents\visual studio 2015\Projects\Summy\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+c:\users\bayu prabowo\documents\visual studio 2015\Projects\Summy\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+c:\users\bayu prabowo\documents\visual studio 2015\Projects\Summy\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+c:\users\bayu prabowo\documents\visual studio 2015\Projects\Summy\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.xml
+c:\users\bayu prabowo\documents\visual studio 2015\Projects\Summy\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+c:\users\bayu prabowo\documents\visual studio 2015\Projects\Summy\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+c:\users\bayu prabowo\documents\visual studio 2015\Projects\Summy\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+c:\users\bayu prabowo\documents\visual studio 2015\Projects\Summy\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+c:\users\bayu prabowo\documents\visual studio 2015\Projects\Summy\Summy\Summy\obj\x86\Debug\Summy.vbprojResolveAssemblyReference.cache
+c:\users\bayu prabowo\documents\visual studio 2015\Projects\Summy\Summy\Summy\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\bayu prabowo\documents\visual studio 2015\Projects\Summy\Summy\Summy\obj\x86\Debug\Summy.exe
+c:\users\bayu prabowo\documents\visual studio 2015\Projects\Summy\Summy\Summy\obj\x86\Debug\Summy.xml
+c:\users\bayu prabowo\documents\visual studio 2015\Projects\Summy\Summy\Summy\obj\x86\Debug\Summy.pdb
+C:\Users\Bayu Prabowo\Documents\Visual Studio 2015\Projects\Summy\Summy\Summy\bin\x86\Debug\Content\gfx\menu.xnb
+C:\Users\Bayu Prabowo\Documents\Visual Studio 2015\Projects\Summy\Summy\Summy\bin\x86\Debug\Content\gfx\number.xnb
+C:\Users\Bayu Prabowo\Documents\Visual Studio 2015\Projects\Summy\Summy\Summy\bin\x86\Debug\Content\gfx\one_finger.xnb
+C:\Users\Bayu Prabowo\Documents\Visual Studio 2015\Projects\Summy\Summy\Summy\bin\x86\Debug\Content\gfx\tiled.xnb
+F:\OnlineDrive\OneDrive\Documents\My Project\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\menu.xnb
+F:\OnlineDrive\OneDrive\Documents\My Project\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\number.xnb
+F:\OnlineDrive\OneDrive\Documents\My Project\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\one_finger.xnb
+F:\OnlineDrive\OneDrive\Documents\My Project\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\tiled.xnb
+F:\OnlineDrive\OneDrive\Documents\My Project\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Summy.exe
+F:\OnlineDrive\OneDrive\Documents\My Project\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Summy.pdb
+F:\OnlineDrive\OneDrive\Documents\My Project\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Summy.xml
+F:\OnlineDrive\OneDrive\Documents\My Project\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.dll
+F:\OnlineDrive\OneDrive\Documents\My Project\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+F:\OnlineDrive\OneDrive\Documents\My Project\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+F:\OnlineDrive\OneDrive\Documents\My Project\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+F:\OnlineDrive\OneDrive\Documents\My Project\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+F:\OnlineDrive\OneDrive\Documents\My Project\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.xml
+F:\OnlineDrive\OneDrive\Documents\My Project\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+F:\OnlineDrive\OneDrive\Documents\My Project\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+F:\OnlineDrive\OneDrive\Documents\My Project\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+F:\OnlineDrive\OneDrive\Documents\My Project\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+F:\OnlineDrive\OneDrive\Documents\My Project\Visual Studio\Summy V2\Summy\Summy\obj\x86\Debug\Summy.vbprojResolveAssemblyReference.cache
+F:\OnlineDrive\OneDrive\Documents\My Project\Visual Studio\Summy V2\Summy\Summy\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\OnlineDrive\OneDrive\Documents\My Project\Visual Studio\Summy V2\Summy\Summy\obj\x86\Debug\Summy.exe
+F:\OnlineDrive\OneDrive\Documents\My Project\Visual Studio\Summy V2\Summy\Summy\obj\x86\Debug\Summy.xml
+F:\OnlineDrive\OneDrive\Documents\My Project\Visual Studio\Summy V2\Summy\Summy\obj\x86\Debug\Summy.pdb
+F:\OnlineDrive\OneDrive\Documents\My Project\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\tes.xnb
+F:\OnlineDrive\OneDrive\Documents\My Project\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\basemenu.xnb
+F:\OnlineDrive\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\number.xnb
+F:\OnlineDrive\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\one_finger.xnb
+F:\OnlineDrive\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\tiled.xnb
+F:\OnlineDrive\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\menu.xnb
+F:\OnlineDrive\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\tes.xnb
+F:\OnlineDrive\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\basemenu.xnb
+F:\OnlineDrive\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Summy.exe
+F:\OnlineDrive\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Summy.pdb
+F:\OnlineDrive\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Summy.xml
+F:\OnlineDrive\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.dll
+F:\OnlineDrive\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+F:\OnlineDrive\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+F:\OnlineDrive\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+F:\OnlineDrive\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+F:\OnlineDrive\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.xml
+F:\OnlineDrive\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+F:\OnlineDrive\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+F:\OnlineDrive\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+F:\OnlineDrive\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+F:\OnlineDrive\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\obj\x86\Debug\Summy.vbprojResolveAssemblyReference.cache
+F:\OnlineDrive\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\OnlineDrive\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\obj\x86\Debug\Summy.exe
+F:\OnlineDrive\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\obj\x86\Debug\Summy.xml
+F:\OnlineDrive\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\obj\x86\Debug\Summy.pdb
+F:\OnlineDrive\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Content\Debug.xnb
+F:\OnlineDrive\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\trash.xnb
+C:\Users\Riski\Music\Documents\Visual Studio 2015\Projects\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\number.xnb
+C:\Users\Riski\Music\Documents\Visual Studio 2015\Projects\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\one_finger.xnb
+C:\Users\Riski\Music\Documents\Visual Studio 2015\Projects\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\tiled.xnb
+C:\Users\Riski\Music\Documents\Visual Studio 2015\Projects\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\menu.xnb
+C:\Users\Riski\Music\Documents\Visual Studio 2015\Projects\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\tes.xnb
+C:\Users\Riski\Music\Documents\Visual Studio 2015\Projects\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\basemenu.xnb
+C:\Users\Riski\Music\Documents\Visual Studio 2015\Projects\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\trash.xnb
+C:\Users\Riski\Music\Documents\Visual Studio 2015\Projects\Summy V2\Summy\Summy\bin\x86\Debug\Content\Debug.xnb
+C:\Users\Riski\Music\Documents\Visual Studio 2015\Projects\Summy V2\Summy\Summy\bin\x86\Debug\Summy.exe
+C:\Users\Riski\Music\Documents\Visual Studio 2015\Projects\Summy V2\Summy\Summy\bin\x86\Debug\Summy.pdb
+C:\Users\Riski\Music\Documents\Visual Studio 2015\Projects\Summy V2\Summy\Summy\bin\x86\Debug\Summy.xml
+C:\Users\Riski\Music\Documents\Visual Studio 2015\Projects\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Riski\Music\Documents\Visual Studio 2015\Projects\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Riski\Music\Documents\Visual Studio 2015\Projects\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Riski\Music\Documents\Visual Studio 2015\Projects\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Riski\Music\Documents\Visual Studio 2015\Projects\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Riski\Music\Documents\Visual Studio 2015\Projects\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Riski\Music\Documents\Visual Studio 2015\Projects\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Riski\Music\Documents\Visual Studio 2015\Projects\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Riski\Music\Documents\Visual Studio 2015\Projects\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Riski\Music\Documents\Visual Studio 2015\Projects\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Riski\Music\Documents\Visual Studio 2015\Projects\Summy V2\Summy\Summy\obj\x86\Debug\Summy.vbprojResolveAssemblyReference.cache
+C:\Users\Riski\Music\Documents\Visual Studio 2015\Projects\Summy V2\Summy\Summy\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Riski\Music\Documents\Visual Studio 2015\Projects\Summy V2\Summy\Summy\obj\x86\Debug\Summy.exe
+C:\Users\Riski\Music\Documents\Visual Studio 2015\Projects\Summy V2\Summy\Summy\obj\x86\Debug\Summy.xml
+C:\Users\Riski\Music\Documents\Visual Studio 2015\Projects\Summy V2\Summy\Summy\obj\x86\Debug\Summy.pdb
+C:\Users\AlyaPrima\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\number.xnb
+C:\Users\AlyaPrima\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\one_finger.xnb
+C:\Users\AlyaPrima\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\tiled.xnb
+C:\Users\AlyaPrima\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\menu.xnb
+C:\Users\AlyaPrima\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\tes.xnb
+C:\Users\AlyaPrima\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\basemenu.xnb
+C:\Users\AlyaPrima\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\trash.xnb
+C:\Users\AlyaPrima\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Content\Debug.xnb
+C:\Users\AlyaPrima\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Summy.exe
+C:\Users\AlyaPrima\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Summy.pdb
+C:\Users\AlyaPrima\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Summy.xml
+C:\Users\AlyaPrima\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\AlyaPrima\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\AlyaPrima\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\AlyaPrima\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\AlyaPrima\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\AlyaPrima\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\AlyaPrima\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\AlyaPrima\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\AlyaPrima\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\AlyaPrima\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\AlyaPrima\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\obj\x86\Debug\Summy.vbprojResolveAssemblyReference.cache
+C:\Users\AlyaPrima\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\AlyaPrima\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\obj\x86\Debug\Summy.exe
+C:\Users\AlyaPrima\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\obj\x86\Debug\Summy.xml
+C:\Users\AlyaPrima\OneDrive\Documents\MyProject\Visual Studio\Summy V2\Summy\Summy\obj\x86\Debug\Summy.pdb
+F:\OnlineDrive\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\number.xnb
+F:\OnlineDrive\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\one_finger.xnb
+F:\OnlineDrive\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\tiled.xnb
+F:\OnlineDrive\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\menu.xnb
+F:\OnlineDrive\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\tes.xnb
+F:\OnlineDrive\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\basemenu.xnb
+F:\OnlineDrive\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\trash.xnb
+F:\OnlineDrive\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\Debug.xnb
+F:\OnlineDrive\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Summy.exe
+F:\OnlineDrive\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Summy.pdb
+F:\OnlineDrive\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Summy.xml
+F:\OnlineDrive\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.dll
+F:\OnlineDrive\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+F:\OnlineDrive\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+F:\OnlineDrive\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+F:\OnlineDrive\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+F:\OnlineDrive\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.xml
+F:\OnlineDrive\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+F:\OnlineDrive\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+F:\OnlineDrive\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+F:\OnlineDrive\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+F:\OnlineDrive\OneDrive\Share\Summy V2\Summy\Summy\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\OnlineDrive\OneDrive\Share\Summy V2\Summy\Summy\obj\x86\Debug\Summy.exe
+F:\OnlineDrive\OneDrive\Share\Summy V2\Summy\Summy\obj\x86\Debug\Summy.xml
+F:\OnlineDrive\OneDrive\Share\Summy V2\Summy\Summy\obj\x86\Debug\Summy.pdb
+F:\OnlineDrive\OneDrive\Share\Summy V2\Summy\Summy\obj\x86\Debug\Summy.vbprojResolveAssemblyReference.cache
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\number.xnb
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\one_finger.xnb
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\tiled.xnb
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\backgroundTileBoard.xnb
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\backTile.xnb
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\linesquare.xnb
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\clear.xnb
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\cpu.xnb
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\done.xnb
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\player.xnb
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\stack.xnb
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\swap.xnb
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\history.xnb
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\star.xnb
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\shadow.xnb
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\drophere.xnb
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\transparent_dim.xnb
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\MessageBox.xnb
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\summy_logo.xnb
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\shadow_menu_utama.xnb
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\shadow_about.xnb
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\help_1.xnb
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\help_2.xnb
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\help_3.xnb
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\help_shadow.xnb
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\search.xnb
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\help_nav_shadow.xnb
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\pause.xnb
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\Debug.xnb
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Summy.exe.manifest
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Summy.application
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Summy.exe
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Summy.pdb
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Summy.xml
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\obj\x86\Debug\Summy.exe.manifest
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\obj\x86\Debug\Summy.application
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\obj\x86\Debug\Summy.exe
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\obj\x86\Debug\Summy.xml
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\obj\x86\Debug\Summy.pdb
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\downy.xnb
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\uppy.xnb
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Debug\Content\gfx\exit.xnb
+C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\obj\x86\Debug\Summy.vbprojResolveAssemblyReference.cache

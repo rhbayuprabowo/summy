@@ -1,0 +1,114 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Summy
+</name>
+</assembly>
+<members>
+<member name="T:Summy.GamePlay">
+ <summary>
+ This is a game component that implements IUpdateable.
+ </summary>
+</member>
+<member name="T:Summy.BackgroundGamePlayScreen">
+ <summary>
+ This is a game component that implements IUpdateable.
+ </summary>
+</member>
+<member name="M:Summy.BackgroundGamePlayScreen.Initialize">
+ <summary>
+ Allows the game component to perform any initialization it needs to before starting
+ to run.  This is where it can query for any required services and load content.
+ </summary>
+</member>
+<member name="T:Summy.FpsCounter">
+ <summary>
+ A game component that counts FPS and UPS, also gives other useful performance information.
+ </summary>
+</member>
+<member name="P:Summy.FpsCounter.FPS">
+ <summary>
+ Gets the current FPS.
+ </summary>
+</member>
+<member name="P:Summy.FpsCounter.UPS">
+ <summary>
+ Gets the current UPS.
+ </summary>
+</member>
+<member name="P:Summy.FpsCounter.MemAllocated">
+ <summary>
+ Gets the total allocated memory, in bytes.
+ </summary>
+</member>
+<member name="M:Summy.FpsCounter.Initialize">
+ <summary>
+ Allows the game component to perform any initialization it needs to before starting
+ to run.  This is where it can query for any required services and load content.
+ </summary>
+</member>
+<member name="M:Summy.FpsCounter.ShowMessage(System.String,System.Int32)">
+ <summary>
+ Displays a message on screen for debugging purposes.
+ </summary>
+ <param name="msg"></param>
+ <param name="milliseconds"></param>
+</member>
+<member name="M:Summy.FpsCounter.Update(Microsoft.Xna.Framework.GameTime)">
+ <summary>
+ Allows performace monitor to calculate update rate.
+ </summary>
+ <param name="gameTime">Provides a snapshot of timing values.</param>
+</member>
+<member name="M:Summy.FpsCounter.Draw(Microsoft.Xna.Framework.GameTime)">
+ <summary>
+ Allows performance monitor to calculate draw rate.
+ </summary>
+ <param name="gameTime"></param>
+</member>
+<member name="M:Summy.Program.Main(System.String[])">
+ <summary>
+ The main entry point for the application.
+ </summary>
+</member>
+<member name="T:Summy.MainGame">
+ <summary>
+ This is the main type for your game
+ </summary>
+</member>
+<member name="M:Summy.MainGame.Initialize">
+ <summary>
+ Allows the game to perform any initialization it needs to before starting to run.
+ This is where it can query for any required services and load any non-graphic
+ related content.  Calling MyBase.Initialize will enumerate through any components
+ and initialize them as well.
+ </summary>
+</member>
+<member name="M:Summy.MainGame.LoadContent">
+ <summary>
+ LoadContent will be called once per game and is the place to load
+ all of your content.
+ </summary>
+</member>
+<member name="M:Summy.MainGame.UnloadContent">
+ <summary>
+ UnloadContent will be called once per game and is the place to unload
+ all content.
+ </summary>
+</member>
+<member name="M:Summy.MainGame.Update(Microsoft.Xna.Framework.GameTime)">
+ <summary>
+ Allows the game to run logic such as updating the world,
+ checking for collisions, gathering input, and playing audio.
+ </summary>
+ <param name="gameTime">Provides a snapshot of timing values.</param>
+</member>
+<member name="M:Summy.MainGame.Draw(Microsoft.Xna.Framework.GameTime)">
+ <summary>
+ This is called when the game should draw itself.
+ </summary>
+ <param name="gameTime">Provides a snapshot of timing values.</param>
+</member>
+</members>
+</doc>

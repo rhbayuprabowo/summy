@@ -1,0 +1,8 @@
+Content\gfx\number.xnb
+Content\gfx\one_finger.xnb
+Content\gfx\tiled.xnb
+Content\gfx\menu.xnb
+Content\gfx\tes.xnb
+Content\gfx\basemenu.xnb
+Content\gfx\trash.xnb
+Content\Debug.xnb

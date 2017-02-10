@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>gfx\number.png</Source>
+      <Name>gfx\number</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Release\Content\gfx\number.xnb</Output>
+      <Time>2015-09-07T16:14:58+07:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\one_finger.png</Source>
+      <Name>gfx\one_finger</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Release\Content\gfx\one_finger.xnb</Output>
+      <Time>2015-09-04T16:26:50+07:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\tiled.png</Source>
+      <Name>gfx\tiled</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Release\Content\gfx\tiled.xnb</Output>
+      <Time>2015-09-07T16:14:52+07:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\menu.png</Source>
+      <Name>gfx\menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Release\Content\gfx\menu.xnb</Output>
+      <Time>2015-09-07T16:33:00+07:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\tes.png</Source>
+      <Name>gfx\tes</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Release\Content\gfx\tes.xnb</Output>
+      <Time>2015-09-07T16:32:48+07:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\basemenu.png</Source>
+      <Name>gfx\basemenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Release\Content\gfx\basemenu.xnb</Output>
+      <Time>2015-09-07T16:32:54+07:00</Time>
+    </Item>
+    <Item>
+      <Source>gfx\trash.png</Source>
+      <Name>gfx\trash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Release\Content\gfx\trash.xnb</Output>
+      <Time>2015-10-01T15:34:56+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Debug.spritefont</Source>
+      <Name>Debug</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Release\Content\Debug.xnb</Output>
+      <Time>2016-02-05T06:32:41+07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{2ED8EBC3-8DF4-43CF-8796-500C33DDE48F}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\SummyContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Riski\OneDrive\Share\Summy V2\Summy\Summy\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-04-17T19:53:40.547+07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
