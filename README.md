@@ -1,9 +1,8 @@
 # README #
 
-![Concept2.png](https://bitbucket.org/repo/GjRnop/images/3082727894-Concept2.png)
-![help_1.png](https://bitbucket.org/repo/GjRnop/images/154597749-help_1.png)
-![help_2.png](https://bitbucket.org/repo/GjRnop/images/3892901371-help_2.png)
-![help_3.png](https://bitbucket.org/repo/GjRnop/images/1962958856-help_3.png)
+![MainMenu.png](https://bitbucket.org/repo/GjRnop/images/1257416750-MainMenu.png)
+![Bantuan.png](https://bitbucket.org/repo/GjRnop/images/3493031165-Bantuan.png)
+![Gameplay.png](https://bitbucket.org/repo/GjRnop/images/807773152-Gameplay.png)
 
 Summy adalah sebuah board game yang diciptakan oleh Corné van Moorsel dan merupakan varian dari game Scrabble. Game ini dapat dimainkan oleh dua orang pemain atau lebih dengan menyusun angka-angka dan operator aritmatika menjadi bentuk penjumlahan, pengurangan, perkalian, atau pembagian. Dan setiap pemain akan mendapatkan poin berdasarkan jumlah total angka-angka yang digunakan pada saat membentuk penjumlahan, pengurangan, perkalian, atau pembagian yang valid pada setiap gilirannya.
 
