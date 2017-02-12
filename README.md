@@ -18,4 +18,4 @@ Summy merupakan proyek yang dilakukan untuk memenuhi syarat lulus Program Studi 
 
 ### Who do I talk to? ###
 
-[Link Text](Link URL)
+[rhbayuprabowo](https://www.linkedin.com/in/rh-bayu-prabowo)
