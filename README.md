@@ -13,13 +13,12 @@ Summy merupakan proyek yang dilakukan untuk memenuhi syarat lulus Program Studi 
 ### How do I get set up? ###
 
 *Use Visual Studio 2015
-
-[Download XNA For Visual Studio 2015 Here](https://mxa.codeplex.com/releases/view/618279)
 *Install DirectX
 *Install Xna Framework 4.0 Redistribution
 *Install Xna Game Studio 4.0 Platform Tools
 *Install Xna Game Studio 4.0 Shared
 *Install XNA Game Studio 4.0.vsix
+[Download XNA For Visual Studio 2015 Here](https://mxa.codeplex.com/releases/view/618279)
 
 ### Who do I talk to? ###
 
@@ -27,4 +26,4 @@ Summy merupakan proyek yang dilakukan untuk memenuhi syarat lulus Program Studi 
 
 
 ### All credit to ###
-[Corné van Moorse](http://www.cwali.nl/summy/summy.htm)
+[Corné van Moorsel](http://www.cwali.nl/summy/summy.htm)
