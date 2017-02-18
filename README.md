@@ -1,4 +1,4 @@
-# README #
+# SUMMY #
 
 Summy adalah sebuah game yang merupakan varian dari game Scrabble. Game ini dapat dimainkan oleh dua orang pemain atau lebih dengan menyusun angka-angka dan operator aritmatika menjadi bentuk penjumlahan, pengurangan, perkalian, atau pembagian. Dan setiap pemain akan mendapatkan poin berdasarkan jumlah total angka-angka yang digunakan pada saat membentuk penjumlahan, pengurangan, perkalian, atau pembagian yang valid pada setiap gilirannya.
 
