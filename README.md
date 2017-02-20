@@ -1,14 +1,18 @@
-# README #
+# SUMMY #
+
+Summy adalah sebuah game yang merupakan varian dari game Scrabble. Game ini dapat dimainkan oleh dua orang pemain atau lebih dengan menyusun angka-angka dan operator aritmatika menjadi bentuk penjumlahan, pengurangan, perkalian, atau pembagian. Dan setiap pemain akan mendapatkan poin berdasarkan jumlah total angka-angka yang digunakan pada saat membentuk penjumlahan, pengurangan, perkalian, atau pembagian yang valid pada setiap gilirannya.
+
+### What is this repository for? ###
+
+Summy merupakan proyek yang dilakukan untuk memenuhi syarat lulus Program Studi S-1 Ilmu Komputer USU
+
+
+# Screenshoot #
 
 ![MainMenu.png](https://bitbucket.org/repo/GjRnop/images/1257416750-MainMenu.png)
 ![Bantuan.png](https://bitbucket.org/repo/GjRnop/images/3493031165-Bantuan.png)
 ![Gameplay.png](https://bitbucket.org/repo/GjRnop/images/807773152-Gameplay.png)
 
-Summy adalah sebuah board game yang diciptakan oleh Corné van Moorsel dan merupakan varian dari game Scrabble. Game ini dapat dimainkan oleh dua orang pemain atau lebih dengan menyusun angka-angka dan operator aritmatika menjadi bentuk penjumlahan, pengurangan, perkalian, atau pembagian. Dan setiap pemain akan mendapatkan poin berdasarkan jumlah total angka-angka yang digunakan pada saat membentuk penjumlahan, pengurangan, perkalian, atau pembagian yang valid pada setiap gilirannya.
-
-### What is this repository for? ###
-
-Summy merupakan proyek yang dilakukan untuk memenuhi syarat lulus Program Studi S-1 Ilmu Komputer USU
 
 ### How do I get set up? ###
 
@@ -19,6 +23,7 @@ Summy merupakan proyek yang dilakukan untuk memenuhi syarat lulus Program Studi 
 * Install Xna Game Studio 4.0 Shared
 * Install XNA Game Studio 4.0.vsix
 * [Download XNA For Visual Studio 2015 Here](https://mxa.codeplex.com/releases/view/618279)
+
 
 ### Who do I talk to? ###
 
