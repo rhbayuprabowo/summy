@@ -27,7 +27,7 @@ Summy merupakan proyek yang dilakukan untuk memenuhi syarat lulus Program Studi 
 
 ### Who do I talk to? ###
 
-[rhbayuprabowo](https://www.linkedin.com/in/rh-bayu-prabowo)
+[rhbayuprabowo](https://github.com/rhbayuprabowo)
 
 
 ### All credit to ###
