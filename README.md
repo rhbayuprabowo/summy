@@ -1,13 +1,14 @@
 # SUMMY #
 
-Summy adalah sebuah game yang merupakan varian dari game Scrabble. Game ini dapat dimainkan oleh dua orang pemain atau lebih dengan menyusun angka-angka dan operator aritmatika menjadi bentuk penjumlahan, pengurangan, perkalian, atau pembagian. Dan setiap pemain akan mendapatkan poin berdasarkan jumlah total angka-angka yang digunakan pada saat membentuk penjumlahan, pengurangan, perkalian, atau pembagian yang valid pada setiap gilirannya.
+### Deskripsi ###
 
-### What is this repository for? ###
+Summy adalah sebuah board game yang diciptakan oleh Corné van Moorse dan merupakan varian dari game Scrabble. Game ini dapat dimainkan oleh dua orang pemain atau lebih dengan menyusun angka-angka dan operator aritmatika menjadi bentuk penjumlahan, pengurangan, perkalian, atau pembagian. Dan setiap pemain akan mendapatkan poin berdasarkan jumlah total angka-angka yang digunakan pada saat membentuk penjumlahan, pengurangan, perkalian, atau pembagian yang valid pada setiap gilirannya. 
 
-Summy merupakan proyek yang dilakukan untuk memenuhi syarat lulus Program Studi S-1 Ilmu Komputer USU
+### Tujuan ###
 
+Tujuan projek ini adalah untuk membangun sebuah agen kecerdasan buatan yang dapat menyusun angka-angka dan operator aritmatika menjadi bentuk penjumlahan, pengurangan, perkalian, atau pembagian dengan jumlah poin maksimum pada setiap gilirannya sebagai lawan tanding pemain dalam bentuk computer game. Metodologi yang digunakan yaitu algoritma greedy yang merupakan algoritma yang menggunakan pendekatan penyelesaian masalah dengan mencari nilai maksimum pada setiap langkahnya tanpa memedulikan konsekuensi pada langkah selanjutnya.
 
-# Screenshoot #
+## Screenshoot ##
 
 ![MainMenu.png](https://bitbucket.org/repo/GjRnop/images/1257416750-MainMenu.png)
 ![Bantuan.png](https://bitbucket.org/repo/GjRnop/images/3493031165-Bantuan.png)
