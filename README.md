@@ -2,7 +2,7 @@
 
 ### Deskripsi ###
 
-Summy adalah sebuah board game yang diciptakan oleh Corné van Moorse dan merupakan varian dari game Scrabble. Game ini dapat dimainkan oleh dua orang pemain atau lebih dengan menyusun angka-angka dan operator aritmatika menjadi bentuk penjumlahan, pengurangan, perkalian, atau pembagian. Dan setiap pemain akan mendapatkan poin berdasarkan jumlah total angka-angka yang digunakan pada saat membentuk penjumlahan, pengurangan, perkalian, atau pembagian yang valid pada setiap gilirannya. 
+Summy adalah sebuah board game yang merupakan varian dari game Scrabble. Game ini dapat dimainkan oleh dua orang pemain atau lebih dengan menyusun angka-angka dan operator aritmatika menjadi bentuk penjumlahan, pengurangan, perkalian, atau pembagian. Dan setiap pemain akan mendapatkan poin berdasarkan jumlah total angka-angka yang digunakan pada saat membentuk penjumlahan, pengurangan, perkalian, atau pembagian yang valid pada setiap gilirannya. 
 
 ### Tujuan ###
 
@@ -30,6 +30,7 @@ Tujuan projek ini adalah untuk membangun sebuah agen kecerdasan buatan yang dapa
 
 [rhbayuprabowo](https://github.com/rhbayuprabowo)
 
-
+<!--
 ### All credit to ###
 [Corné van Moorsel](http://www.cwali.nl/summy/summy.htm)
+-->
